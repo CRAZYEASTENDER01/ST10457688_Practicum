@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My WeatherWhiz Application</string>
+    <string name="weatherwhiz">WeatherWhiz</string>
+    <string name="name_ayyoob_portland">Name:Ayyoob Portland</string>
+    <string name="st10457688">ST10457688</string>
+    <string name="start">Start</string>
+    <string name="daily_forecast">Daily Forecast</string>
+    <string name="weekly_weather">Weekly Weather</string>
+    <string name="_29">29º</string>
+    <string name="average_temperature">Average Temperature:</string>
+    <string name="exit">Exit</string>
+    <string name="clear">Clear</string>
+</resources>
